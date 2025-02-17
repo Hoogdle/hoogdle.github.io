@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[GitHub](https://github.com/Hoogdle)
     <p>kimtaeyeong000@gmail.com</p>
     <p>Seoul, South Korea</p>
 
